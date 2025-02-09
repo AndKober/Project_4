@@ -101,5 +101,5 @@ Identify the characteristics of customers who are more likely to open a deposit,
 
 ## Conclusions
 🔹 **Simple models (Logistic Regression, Decision Trees) performed almost as well as complex ensemble models.**  
-🔹 **Using Isolation Forest for outlier detection improved model accuracy.**  
+🔹 **Outliers were detected and removed using the Interquartile Range (IQR) method, improving model accuracy.**  
 🔹 **In real-world scenarios, computational costs must be considered, as complex models do not always justify their added expense.**  
