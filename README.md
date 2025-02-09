@@ -69,7 +69,7 @@ Identify the characteristics of customers who are more likely to open a deposit,
 ## Project Workflow
 1️⃣ **Data Preprocessing:**  
 - Handling missing values  
-- Detecting and processing outliers (Isolation Forest)  
+- Detecting and processing outliers (Interquartile Range (IQR) method)  
 
 2️⃣ **Exploratory Data Analysis (EDA):**  
 - Feature distribution visualization  
